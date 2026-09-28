@@ -37,7 +37,7 @@ const styles = StyleSheet.create({
     },
     stylecontainerFlex: {
         flexDirection: 'row',
-         gap: 65,
+         gap: 120,
           marginBottom: '5%', 
           marginTop: '9%'
     },
@@ -56,15 +56,15 @@ const styles = StyleSheet.create({
         margin: '1%',
         paddingLeft: '10%',
         borderColor: '#18A77B',
-        fontSize: 10
+        fontSize: 15
     },
     fontStyle: {
         opacity: 0.9,
         color: 'white',
-        fontSize: 18
+        fontSize: 20
     },
     Subtitulo: {
-        fontSize: 18,
+        fontSize: 20,
         color: 'white'
     }
 })
